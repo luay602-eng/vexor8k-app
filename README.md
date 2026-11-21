@@ -1,13 +1,17 @@
 # Vexor
 
-ØªØ­Ù…ÙŠÙ„ ØªØ·Ø¨ÙŠÙ‚ Vexor (Ù…Ù„ÙØ§Øª APK ÙÙ‚Ø·).
+تحميل تطبيق Vexor (ملفات APK فقط).
 
-**Ø¢Ø®Ø± Ù†Ø³Ø®Ø©:** https://github.com/luay602-eng/vexor8k-app/releases/latest
+**رابط دائم يعمل على كل الأجهزة، ويحمّل آخر نسخة دائماً:**
 
-| Ø§Ù„Ø¬Ù‡Ø§Ø² | Ø§Ù„Ù…Ù„Ù |
+https://github.com/luay602-eng/vexor8k-app/releases/latest/download/Vexor8K.apk
+
+ملفات أصغر لكل نوع جهاز: https://github.com/luay602-eng/vexor8k-app/releases/latest
+
+| الجهاز | الملف |
 |---|---|
-| Ø§Ù„Ø´Ø§Ø´Ø§Øª Ø§Ù„Ø°ÙƒÙŠØ©ØŒ Ø§Ù„Ø±ÙŠØ³ÙŠÙØ±Ø§ØªØŒ Fire TV Stick | Vexor8K-ARM32 |
-| Ø§Ù„Ù‡ÙˆØ§ØªÙ Ø§Ù„Ø­Ø¯ÙŠØ«Ø© | Vexor8K-ARM64 |
-| ØºÙŠØ± Ù…ØªØ£ÙƒØ¯ (ÙŠØ¹Ù…Ù„ Ø¹Ù„Ù‰ ÙƒÙ„ Ø§Ù„Ø£Ø¬Ù‡Ø²Ø©) | Vexor8K-Universal |
+| الشاشات الذكية، الريسيفرات، Fire TV Stick | Vexor8K-ARM32 |
+| الهواتف الحديثة | Vexor8K-ARM64 |
+| كل الأجهزة | Vexor8K.apk أو Vexor8K-Universal |
 
-Ù„Ù„Ù…Ø³Ø§Ø¹Ø¯Ø©: vexor8k.com Ø£Ùˆ WhatsApp +44 7453 402598
+للمساعدة: vexor8k.com أو WhatsApp +44 7453 402598
